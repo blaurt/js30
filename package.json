@@ -1,0 +1,26 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "description": "![](https://javascript30.com/images/JS3-social-share.png)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesbos/JavaScript30.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesbos/JavaScript30/issues"
+  },
+  "homepage": "https://github.com/wesbos/JavaScript30#readme",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "express": "^4.16.3",
+    "serve-index": "^1.9.1",
+    "serve-static": "^1.13.2"
+  }
+}
